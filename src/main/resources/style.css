@@ -1,0 +1,15 @@
+.basic-font {
+	-fx-font: 11pt "Arial";
+}
+
+#ueberschrift {
+	-fx-font: bold italic 14pt "Arial";
+}
+
+.gesperrt {
+	-fx-background-color: #0000FF;
+}
+
+.gesperrt:selected {
+	-fx-background-color: #00FF00;
+}
